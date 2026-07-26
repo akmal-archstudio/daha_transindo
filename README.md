@@ -1,2 +1,1 @@
 # daha_transindo
-aaaminuk
