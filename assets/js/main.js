@@ -62,7 +62,7 @@
   // Contact form -> WhatsApp message
   var form = document.getElementById('contactForm');
   var formNote = document.getElementById('formNote');
-  var WA_NUMBER = '6281234567890';
+  var WA_NUMBER = '6281386151517';
 
   if (form) {
     form.addEventListener('submit', function (e) {
